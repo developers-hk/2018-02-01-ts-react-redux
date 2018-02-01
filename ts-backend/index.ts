@@ -48,5 +48,5 @@ app.post('/moves',(req,res)=>{
 
 
 app.listen(8080,'0.0.0.0',()=>{
-    console.log("Server is going to start");
+    console.log("Server is started");
 });
